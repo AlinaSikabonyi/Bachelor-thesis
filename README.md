@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This bachelor thesis demonstrates advanced time series analysis techniques applied to sparse medical data, with methodologies directly transferable to finance, tech, and data-driven industries.
 
-## TITE
+## TITLE
 Time Series Forecasting in HPT-Modelling
 
 ### 🔧 Data Engineering Excellence
